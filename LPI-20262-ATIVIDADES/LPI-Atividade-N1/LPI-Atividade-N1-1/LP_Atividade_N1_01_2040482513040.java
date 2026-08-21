@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class LP_Atividade_01_01_2040482513040 {
+public class LP_Atividade_N1_01_2040482513040 {
     public static void main(String[] args) {
          Scanner scanner = new Scanner(System.in);
 
