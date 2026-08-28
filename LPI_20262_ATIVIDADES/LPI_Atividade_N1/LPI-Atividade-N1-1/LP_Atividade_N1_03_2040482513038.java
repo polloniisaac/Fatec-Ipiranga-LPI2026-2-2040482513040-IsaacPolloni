@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LP_Atividade_N1_03_2040482513038 {
+public class LP_Atividade_N1_03_2040482513038{
 
     public static void main(String[] args) {
 
