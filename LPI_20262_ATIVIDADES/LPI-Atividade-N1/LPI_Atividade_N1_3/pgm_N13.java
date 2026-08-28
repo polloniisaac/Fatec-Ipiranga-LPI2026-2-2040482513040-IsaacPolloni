@@ -1,3 +1,8 @@
+//RA:2040482513040
+//Nome: Isaac de Souza Polloni
+//Disciplina: Linguagem de Programação (LPI)
+
+
 import java.util.Locale;
 import java.util.Scanner;
 
