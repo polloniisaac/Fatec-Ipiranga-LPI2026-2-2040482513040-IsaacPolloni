@@ -27,9 +27,8 @@ public class LP_Atividade_N1_02_20404825130340{
                 + (aPrimitivo == bPrimitivo)
         );
 
-        Integer aObjeto = new Integer(valorObjeto);
-        Integer bObjeto = new Integer(valorObjeto);
-
+        Integer aObjeto = Integer.valueOf(valorObjeto);
+        Integer bObjeto = Integer.valueOf(valorObjeto);
         System.out.println("--- Comparação de Objetos via 'new Integer()' ---");
         System.out.println(
                 "aObjeto == bObjeto (Identidade): "
