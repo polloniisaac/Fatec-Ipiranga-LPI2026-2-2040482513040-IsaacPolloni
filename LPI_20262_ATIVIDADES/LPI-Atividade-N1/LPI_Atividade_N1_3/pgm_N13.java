@@ -1,5 +1,3 @@
-package LPI_20262_ATIVIDADES.LPI_Atividade_N1.LPI_Atividade_N1_3;
-
 import java.util.Locale;
 import java.util.Scanner;
 
