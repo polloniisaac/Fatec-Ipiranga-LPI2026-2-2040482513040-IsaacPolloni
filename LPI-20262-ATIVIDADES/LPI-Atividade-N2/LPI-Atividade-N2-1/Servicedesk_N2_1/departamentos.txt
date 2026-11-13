@@ -1,0 +1,10 @@
+COD;DEPARTAMENTO
+10;Financeiro
+20;Recursos Humanos
+30;Tecnologia da Informação
+40;Logística
+50;Comercial
+60;Jurídico
+70;Marketing
+80;Compras
+9O;Diretoria
